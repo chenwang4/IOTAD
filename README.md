@@ -11,3 +11,5 @@ We will transfer the orginal GPS trajectories to grid trajectories with state-ac
 The code implements deep maximum entropy IRL.
 ### Online Detection
 To implement IO-TAD on Chengdu dataset, please run main.py from the file online detection.
+### Authors
+Chen Wang, Sarah Erfani, Tansu Alpcan, Christopher Leckie
