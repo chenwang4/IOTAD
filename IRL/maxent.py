@@ -1,8 +1,5 @@
 """
-Implements maximum entropy inverse reinforcement learning (Ziebart et al., 2008)
-
-Matthew Alger, 2015
-matthew.alger@anu.edu.au
+Implements deep maximum entropy inverse reinforcement learning 
 """
 
 from itertools import product
