@@ -13,3 +13,5 @@ The code implements deep maximum entropy IRL.
 To implement IO-TAD on Chengdu dataset, please run main.py from the file online detection.
 ### Authors
 Chen Wang, Sarah Erfani, Tansu Alpcan, Christopher Leckie
+### Acknowledgements
+This work was supported in part by the Australian Research Council Linkage Project under the grant LP190101287, and by Northrop Grumman Mission Systems’ University Research Program. 
